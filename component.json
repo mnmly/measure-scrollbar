@@ -1,0 +1,7 @@
+{
+  "name": "scrollbar-measure",
+  "description": "Measure scrollbar width",
+  "scripts": [
+    "index.js"
+  ]
+}
