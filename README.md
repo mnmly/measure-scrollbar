@@ -1,4 +1,4 @@
-# measaure-scrollbar
+# measure-scrollbar
 
 Measures scrollbar width.
 
