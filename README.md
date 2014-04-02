@@ -1,17 +1,17 @@
-# scrollbar-measure
+# measaure-scrollbar
 
 Measures scrollbar width.
 
 ### Install
 
 ```
-  $ component install mnmly/scrollbar-measure
+  $ component install mnmly/measure-scrollbar
 ```
 
 ### Usage
 
 ```javascript
-  var measure = require('scrollbar-measaure');
+  var measure = require('measaure-scrollbar');
   var scrollbarWidth = measaure();
   console.log(scrollbarWidth);
 ```

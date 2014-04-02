@@ -1,5 +1,5 @@
 {
-  "name": "scrollbar-measure",
+  "name": "measure-scrollbar",
   "description": "Measure scrollbar width",
   "scripts": [
     "index.js"
